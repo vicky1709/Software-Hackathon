@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pyttsx3
+easyocr
+ultralytics
+speechrecognition
+pyaudio
+threading
